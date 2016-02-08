@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shopee</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="retry">Retry</string>
+    <string name="networkError">Please check your network connection</string>
+    <string name="serverError">Please try after sometime, There might be problem with server</string>
+    <string name="timeoutError">Timeout error</string>
+    <string name="defaultError">There might be some error, Please try after sometime</string>
+    <!--Account Tab-->
+    <string name="loginTab">Login</string>
+    <string name="registerTab">Register</string>
+
+</resources>
